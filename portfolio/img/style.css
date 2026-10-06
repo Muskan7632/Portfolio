@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ataullah Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>MD Ataullah</h1>
+    <p>I love coding and reading</p>
+    
+    <img src="Ataullah.jpeg" alt="My Photo" height="120">
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am a passionate web developer who enjoys building websites and learning new technologies.</p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <ul>
+        
+        <li><b>10th Class (CBSE)</b>: 60.3%</li>
+        <li><b>12th Class (CBSE)</b>: 61.33%</li>
+        <li><b>Bachelor in Engineering (JNU)</b>: 7.05 CGPA</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Node.js, SQL</li>
+        <li>Java, Python</li>
+        <li>DBMS, DSA</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li>Sportify Clone</li>
+        <li>Tic Tac Toe</li>
+        <li>To-Do List</li>
+        <li>Weather App</li>
+
+    </ul>
+</section>
+
+<section>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Coding</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact Me</h2>
+    <ul>
+        <li><b>Email:</b>ataullahmdataullah33@gmail.com</li>
+        <li><a href="https://github.com/ataullah8">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/md-ataullah-406726293">LinkedIn</a></li>
+    </ul>
+
+    <!-- <a href="resume.pdf" class="btn" download>Download Resume</a> -->
+</section>
+
+<footer>
+    <p>Made with ❤️ by Ataullah</p>
+</footer>
+
+</body>
+</html>
